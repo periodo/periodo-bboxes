@@ -1,0 +1,14 @@
+{
+  "name": "periodo-bboxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pleiades-bboxes.js",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/periodo/periodo-bboxes.git"
+  }
+}
