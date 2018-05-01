@@ -29,7 +29,7 @@ node_modules:
 	npm install
 
 venv:
-	virtualenv -p python3 venv
+	python3 -m venv venv
 	./venv/bin/pip install -r requirements.txt
 
 pleiades-places-latest.json:
