@@ -1,6 +1,6 @@
 %.zip:
-	wget http://www.naturalearthdata.com/\
-	http//www.naturalearthdata.com/download/110m/cultural/$@
+	curl http://www.naturalearthdata.com/\
+	http//www.naturalearthdata.com/download/110m/cultural/$@ > $@
 
 %.shp: %.zip
 	unzip $< $@
