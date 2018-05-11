@@ -1,1 +1,7 @@
 .ipynb_checkpoints/
+DIARY.md
+node_modules/
+pleiades-bboxes.ndjson
+pleiades-places-latest.json
+query.rq
+venv/
